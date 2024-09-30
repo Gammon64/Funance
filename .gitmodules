@@ -1,0 +1,8 @@
+[submodule "funance-backend"]
+	path = funance-backend
+	url = https://github.com/Gammon64/funance-backend.git
+	branch = main
+[submodule "funance-web"]
+	path = funance-web
+	url = https://github.com/Gammon64/funance-web.git
+	branch = main
